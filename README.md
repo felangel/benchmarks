@@ -4,7 +4,7 @@ Creators of the tested libs can suggest improvements, as long as they follow the
 
 # 1- State Managers
 
-
+![](benchmark.png)
 
 ## No GC 
 
