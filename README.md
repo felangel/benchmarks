@@ -43,6 +43,7 @@ Get = 4.14
 GetX = 4.13 
 
 
+
 - NOTE: The proportion of the metrics are correct, but the difference is after the comma, so don't read as 1.5mb, but 150kb, don't read as 2mb, but 200k.
 
 A more robust benchmark is being made and the typo in Banners will be replaced.
