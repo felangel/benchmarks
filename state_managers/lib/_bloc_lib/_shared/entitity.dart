@@ -1,4 +1,3 @@
-import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:meta/meta.dart';
 import 'package:uuid/uuid.dart';
@@ -30,6 +29,3 @@ class EntityState<E extends Entity> extends Equatable {
   @override
   List<Object> get props => [dictionary, ids, entities];
 }
-
-abstract class EntityBloc<Event extends EntityEvent, State extends EntityState>
-    extends Bloc<Event, State> {}
